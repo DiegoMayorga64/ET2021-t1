@@ -1,0 +1,33 @@
+#nav{
+    height: 100px;
+    width: 100%;
+    background-color: slategray;
+    text-align: right;
+}
+
+a{
+    color:white;
+    padding: 8px;
+}
+
+#button{
+    width: 100%;
+    color: slategray;
+    text-align: center;
+    padding: 10px;
+}
+
+#form{
+    margin: 0%;
+    width: 1000px;
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+}
+
+
+#bod{
+    width:100%;
+    height: 80%;
+    align-items: center;
+}
